@@ -3,7 +3,7 @@
 👋 Hi, I’m Andrew
 
 🔭 I’m currently working on:
-Improving cloud-based solutions and implementing microservices architecture.
+Improving sentiment based readings on digital tokens 
 
 👯 I’m looking to collaborate on:
 Fullstack projects
